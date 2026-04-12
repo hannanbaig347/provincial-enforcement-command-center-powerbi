@@ -1,4 +1,4 @@
-![Complete Dashboard1](Images/Dashboard 1.png)
+![Complete Dashboard1](Images/Dashboard1.png)
 <br><br>
 
 # Provincial Enforcement Command Center
@@ -161,7 +161,7 @@ Output: **93 clean rows** powering all downstream anomaly detection.
 2. Fact_Market — the macroeconomic market data fact table
 3. Dim_Magistrate — a dimension table profiling all 145 officers across Lahore, Faisalabad, Rawalpindi, and Multan
 
-![Star Schema](Images/Star Schema.png)
+![Star Schema](Images/StarSchema.png)
 <br><br>
 
 
@@ -217,7 +217,7 @@ A price spike only becomes suspicious when supply isn't falling. I calculated ro
 - Specifically MAG-120 in Lahore and MAG-220 in Rawalpindi
 - Lahore alone: -Rs. 1.8M leakage with 14 absolute SLA failures.
 
-![4.7 Million](Images/4.7 Million.png)
+![4.7 Million](Images/4.7Million.png)
 <br><br>
 
 **2. The Culprits**
@@ -234,13 +234,13 @@ A price spike only becomes suspicious when supply isn't falling. I calculated ro
 
 ## Dashboard Preview
 
-![Complete Dashboard1](Images/Dashboard 1.png)
+![Complete Dashboard1](Images/Dashboard1.png)
 <br><br>
 
-![Complete Dashboard1](Images/Dashboard 2.png)
+![Complete Dashboard1](Images/Dashboard2.png)
 <br><br>
 
-![Complete Dashboard1](Images/Dashboard 3.png)
+![Complete Dashboard1](Images/Dashboard3.png)
 <br><br>
 
 
@@ -367,7 +367,6 @@ The core logic, ETL, and statistical fraud detection were executed in Python. Na
 | |
 | **Automated Magistrate Scorecards** | Python-driven automation for magistrate performance scorecards (PDFs) | Removes human bias |
 | **Multi-Province Expansion** | Extend the pipeline to cover other provinces | A national enforcement  platform |
-| 
 | **Power BI Embedded in Gov Portal** | Embed the Power BI dashboard directly into the existing PCCMD web portal using Power BI Embedded (Azure)  | Unified tools eliminate separate BI platforms |
 
  
