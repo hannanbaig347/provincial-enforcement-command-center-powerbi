@@ -33,7 +33,7 @@ I built a data analytics solution that includes
 
 The result: **Using simulated data, Rs. 4.7 Million in actionable revenue leakage** was identified, **four high-risk magistrate profiles were identified**, and **25 hoarding events** identified across Punjab's four cities.
 
-**[READ THE FULL REPORT (PDF)](/Report.pdf)**
+
 ---
 
 ## Objectives
